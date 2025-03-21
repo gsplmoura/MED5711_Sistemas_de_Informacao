@@ -1,0 +1,11 @@
+record_id,redcap_event_name,aeterm_1,aeterm_2,aeterm_3,aeterm_4,aeoccur_1,aeoccur_2,aeoccur_3,aeoccur_4,aeongo_1,aeongo_2,aeongo_3,aeongo_4,aestdat_1,aestdat_2,aestdat_3,aestdat_4,aesev_1,aesev_2,aesev_3,aesev_4,aerel_1,aerel_2,aerel_3,aerel_4,aedis_1,aedis_2,aedis_3,aedis_4,aeyn,adverse_events_complete
+2,visit_2_arm_1,nausea,diarreia,diarreia,dor de cabeca,1,1,1,1,1,1,1,1,2025-01-29,2025-01-06,2025-01-14,2025-01-09,1,2,2,3,1,1,3,3,0,1,0,1,1,2
+4,visit_2_arm_1,diarreia,vomito,nausea,,1,1,1,,1,1,1,,2025-02-20,2025-02-09,2025-01-25,,3,3,1,,4,4,1,,1,1,0,,1,2
+5,visit_2_arm_1,vomito,vomito,vomito,,1,1,1,,1,1,1,,2025-02-17,2025-02-27,2025-01-27,,2,1,2,,3,1,2,,0,0,0,,1,2
+4,visit_3_arm_1,diarreia,diarreia,,,1,1,,,1,1,,,2025-02-02,2025-01-23,,,3,2,,,2,1,,,0,0,,,1,2
+5,visit_3_arm_1,diarreia,nausea,diarreia,,1,1,1,,1,1,1,,2025-01-01,2025-02-03,2025-02-12,,2,1,1,,4,4,3,,0,0,1,,1,2
+3,visit_2_arm_1,,,,,1,1,,,1,1,,,2025-02-13,2025-02-10,,,3,1,,,2,2,,,0,0,,,0,2
+1,visit_3_arm_1,,,,,1,1,,,1,1,,,2025-02-23,2025-02-14,,,1,1,,,2,2,,,1,0,,,0,2
+1,visit_2_arm_1,,,,,1,1,,,1,1,,,2025-01-26,2025-01-15,,,2,1,,,4,3,,,1,0,,,0,2
+3,visit_3_arm_1,,,,,1,1,1,,1,1,1,,2025-02-21,2025-01-04,2025-02-25,,3,2,3,,1,2,1,,0,1,0,,0,2
+2,visit_3_arm_1,,,,,1,,,,1,,,,2025-02-06,,,,3,,,,2,,,,0,,,,0,2

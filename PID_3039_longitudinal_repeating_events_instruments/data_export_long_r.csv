@@ -1,0 +1,79 @@
+"Record ID","Event Name","Repeat Instrument","Repeat Instance","Date of Consent Signed:","Subject Initials (FML)","Date of Birth","Age (years)",Ethnicity,Race,Gender,Complete?,"Concomitant Medication:","Start Date:","Stop Date:",Dose:,Frequency:,Complete?,"Were any adverse events experienced?","What is the adverse event term?","Does the subject have (specific adverse event)?","What is the date the adverse event started?","Is the adverse event still ongoing?","What date did the adverse event end?","What was the severity of the adverse event?","Is this event related to study treatment?","Did the adverse event cause the subject to be discontinued from the study?",Complete?
+1,Visit_1,,,2024-03-18,SRN,1995-02-12,30.1,"Hispanic or Latino",Asian,Male,Complete,,,,,,,,,,,,,,,,
+1,Visit_1,medication_single,1,,,,,,,,,glibenclamida,2021-05-28,,75,8/8h,Complete,,,,,,,,,,
+1,Visit_1,medication_single,2,,,,,,,,,losartana,2017-08-17,,100,12/12h,Complete,,,,,,,,,,
+1,Visit_1,medication_single,3,,,,,,,,,furosemida,2010-12-27,,10,12/12h,Complete,,,,,,,,,,
+1,Visit_1,medication_single,4,,,,,,,,,glibenclamida,2014-01-20,,10,8/8h,Complete,,,,,,,,,,
+1,Visit_1,medication_single,5,,,,,,,,,captopril,2015-08-12,,20,1x/d,Complete,,,,,,,,,,
+1,Visit_1,medication_single,6,,,,,,,,,furosemida,2014-12-27,,100,8/8h,Complete,,,,,,,,,,
+1,Visit_1,medication_single,7,,,,,,,,,glibenclamida,2020-01-07,,75,1x/d,Complete,,,,,,,,,,
+1,Visit_2,medication_single,1,,,,,,,,,metformina,2023-02-18,,75,8/8h,Complete,,,,,,,,,,
+1,Visit_2,medication_single,2,,,,,,,,,metformina,2019-06-05,,100,8/8h,Complete,,,,,,,,,,
+1,Visit_2,medication_single,3,,,,,,,,,losartana,2010-08-05,,20,12/12h,Complete,,,,,,,,,,
+1,Visit_2,medication_single,4,,,,,,,,,furosemida,2018-04-29,,20,1x/d,Complete,,,,,,,,,,
+1,Visit_2,medication_single,5,,,,,,,,,furosemida,2020-11-22,,20,12/12h,Complete,,,,,,,,,,
+1,Visit_2,medication_single,6,,,,,,,,,captopril,2024-10-26,,100,8/8h,Complete,,,,,,,,,,
+1,Visit_2,adverse_events,1,,,,,,,,,,,,,,,Yes,tontura,Yes,2025-01-15,Yes,,Mild,Definitely,Yes,Complete
+1,Visit_2,adverse_events,2,,,,,,,,,,,,,,,Yes,tontura,Yes,2025-01-06,Yes,,Mild,Probably,Yes,Complete
+1,Visit_3,adverse_events,1,,,,,,,,,,,,,,,Yes,diarreia,Yes,2025-01-17,Yes,,Mild,Possibly,No,Complete
+1,Visit_3,adverse_events,2,,,,,,,,,,,,,,,Yes,diarreia,Yes,2025-02-07,Yes,,Mild,Possibly,Yes,Complete
+2,Visit_1,,,2024-07-28,BQC,1993-06-15,31.7,"Unknown / Not Reported","More Than One Race",Male,Complete,,,,,,,,,,,,,,,,
+2,Visit_1,medication_single,1,,,,,,,,,metformina,2015-07-28,,100,8/8h,Complete,,,,,,,,,,
+2,Visit_1,medication_single,2,,,,,,,,,captopril,2015-03-24,,100,8/8h,Complete,,,,,,,,,,
+2,Visit_1,medication_single,3,,,,,,,,,losartana,2016-01-03,,75,12/12h,Complete,,,,,,,,,,
+2,Visit_1,medication_single,4,,,,,,,,,metformina,2021-08-30,,50,12/12h,Complete,,,,,,,,,,
+2,Visit_2,medication_single,1,,,,,,,,,captopril,2019-12-04,,100,8/8h,Complete,,,,,,,,,,
+2,Visit_2,medication_single,2,,,,,,,,,losartana,2023-07-24,,20,12/12h,Complete,,,,,,,,,,
+2,Visit_2,medication_single,3,,,,,,,,,losartana,2013-02-19,,10,1x/d,Complete,,,,,,,,,,
+2,Visit_2,adverse_events,1,,,,,,,,,,,,,,,Yes,"dor de cabeca",Yes,2025-02-17,Yes,,Moderate,Possibly,No,Complete
+2,Visit_2,adverse_events,2,,,,,,,,,,,,,,,Yes,diarreia,Yes,2025-02-18,Yes,,Moderate,Definitely,No,Complete
+2,Visit_2,adverse_events,3,,,,,,,,,,,,,,,Yes,vomito,Yes,2025-02-05,Yes,,Mild,Definitely,No,Complete
+2,Visit_3,adverse_events,1,,,,,,,,,,,,,,,Yes,nausea,Yes,2025-01-22,Yes,,Severe,Probably,No,Complete
+2,Visit_3,adverse_events,2,,,,,,,,,,,,,,,Yes,diarreia,Yes,2025-02-28,Yes,,Mild,Possibly,No,Complete
+2,Visit_3,adverse_events,3,,,,,,,,,,,,,,,Yes,tontura,Yes,2025-02-26,Yes,,Moderate,Probably,No,Complete
+2,Visit_3,adverse_events,4,,,,,,,,,,,,,,,Yes,nausea,Yes,2025-02-27,Yes,,Moderate,"Not Related",No,Complete
+2,Visit_3,adverse_events,5,,,,,,,,,,,,,,,Yes,vomito,Yes,2025-01-04,Yes,,Mild,Definitely,No,Complete
+3,Visit_1,,,2024-01-22,IAS,1995-01-09,30.1,"Unknown / Not Reported","Black or African American",Female,Complete,,,,,,,,,,,,,,,,
+3,Visit_1,medication_single,1,,,,,,,,,captopril,2023-10-30,,100,1x/d,Complete,,,,,,,,,,
+3,Visit_1,medication_single,2,,,,,,,,,metformina,2014-04-15,,10,8/8h,Complete,,,,,,,,,,
+3,Visit_1,medication_single,3,,,,,,,,,furosemida,2017-12-18,,50,12/12h,Complete,,,,,,,,,,
+3,Visit_1,medication_single,4,,,,,,,,,losartana,2014-07-26,,50,8/8h,Complete,,,,,,,,,,
+3,Visit_1,medication_single,5,,,,,,,,,captopril,2018-08-18,,100,1x/d,Complete,,,,,,,,,,
+3,Visit_2,medication_single,1,,,,,,,,,glibenclamida,2022-06-23,,100,8/8h,Complete,,,,,,,,,,
+3,Visit_2,medication_single,2,,,,,,,,,metformina,2022-05-02,,20,8/8h,Complete,,,,,,,,,,
+3,Visit_2,medication_single,3,,,,,,,,,captopril,2018-05-30,,100,1x/d,Complete,,,,,,,,,,
+3,Visit_2,medication_single,4,,,,,,,,,losartana,2024-12-06,,75,1x/d,Complete,,,,,,,,,,
+3,Visit_2,medication_single,5,,,,,,,,,captopril,2019-04-07,,50,1x/d,Complete,,,,,,,,,,
+3,Visit_2,medication_single,6,,,,,,,,,captopril,2010-08-30,,20,8/8h,Complete,,,,,,,,,,
+3,Visit_2,adverse_events,1,,,,,,,,,,,,,,,No,,,,,,,,,Complete
+3,Visit_3,adverse_events,1,,,,,,,,,,,,,,,No,,,,,,,,,Complete
+4,Visit_1,,,2024-01-12,EJR,2000-09-28,24.4,"Hispanic or Latino",Asian,Female,Complete,,,,,,,,,,,,,,,,
+4,Visit_1,medication_single,1,,,,,,,,,glibenclamida,2022-01-25,,50,12/12h,Complete,,,,,,,,,,
+4,Visit_1,medication_single,2,,,,,,,,,furosemida,2018-03-28,,10,12/12h,Complete,,,,,,,,,,
+4,Visit_1,medication_single,3,,,,,,,,,metformina,2024-03-04,,100,12/12h,Complete,,,,,,,,,,
+4,Visit_1,medication_single,4,,,,,,,,,captopril,2018-09-21,,10,8/8h,Complete,,,,,,,,,,
+4,Visit_2,medication_single,1,,,,,,,,,losartana,2016-05-01,,75,12/12h,Complete,,,,,,,,,,
+4,Visit_2,medication_single,2,,,,,,,,,captopril,2019-06-25,,100,8/8h,Complete,,,,,,,,,,
+4,Visit_2,medication_single,3,,,,,,,,,losartana,2010-01-04,,20,8/8h,Complete,,,,,,,,,,
+4,Visit_2,medication_single,4,,,,,,,,,metformina,2015-03-21,,50,8/8h,Complete,,,,,,,,,,
+4,Visit_2,adverse_events,1,,,,,,,,,,,,,,,Yes,nausea,Yes,2025-01-14,Yes,,Moderate,"Not Related",No,Complete
+4,Visit_2,adverse_events,2,,,,,,,,,,,,,,,Yes,"dor de cabeca",Yes,2025-01-01,Yes,,Mild,Possibly,No,Complete
+4,Visit_2,adverse_events,3,,,,,,,,,,,,,,,Yes,nausea,Yes,2025-02-13,Yes,,Moderate,"Not Related",No,Complete
+4,Visit_3,adverse_events,1,,,,,,,,,,,,,,,Yes,tontura,Yes,2025-01-18,Yes,,Moderate,Possibly,Yes,Complete
+4,Visit_3,adverse_events,2,,,,,,,,,,,,,,,Yes,nausea,Yes,2025-02-06,Yes,,Mild,"Not Related",No,Complete
+4,Visit_3,adverse_events,3,,,,,,,,,,,,,,,Yes,diarreia,Yes,2025-01-10,Yes,,Moderate,Possibly,No,Complete
+5,Visit_1,,,2024-12-02,TYZ,1990-05-29,34.8,"NOT Hispanic or Latino","Unknown / Not Reported",Female,Complete,,,,,,,,,,,,,,,,
+5,Visit_1,medication_single,1,,,,,,,,,furosemida,2018-09-05,,100,8/8h,Complete,,,,,,,,,,
+5,Visit_1,medication_single,2,,,,,,,,,furosemida,2020-06-25,,75,8/8h,Complete,,,,,,,,,,
+5,Visit_1,medication_single,3,,,,,,,,,losartana,2023-07-28,,20,8/8h,Complete,,,,,,,,,,
+5,Visit_2,medication_single,1,,,,,,,,,losartana,2012-01-27,,100,8/8h,Complete,,,,,,,,,,
+5,Visit_2,medication_single,2,,,,,,,,,metformina,2024-07-05,,100,8/8h,Complete,,,,,,,,,,
+5,Visit_2,medication_single,3,,,,,,,,,metformina,2016-11-20,,100,12/12h,Complete,,,,,,,,,,
+5,Visit_2,adverse_events,1,,,,,,,,,,,,,,,Yes,vomito,Yes,2025-01-25,Yes,,Severe,Probably,No,Complete
+5,Visit_2,adverse_events,2,,,,,,,,,,,,,,,Yes,"dor de cabeca",Yes,2025-02-11,Yes,,Moderate,Definitely,No,Complete
+5,Visit_3,adverse_events,1,,,,,,,,,,,,,,,Yes,nausea,Yes,2025-01-05,Yes,,Mild,"Not Related",Yes,Complete
+5,Visit_3,adverse_events,2,,,,,,,,,,,,,,,Yes,tontura,Yes,2025-02-02,Yes,,Mild,Definitely,No,Complete
+5,Visit_3,adverse_events,3,,,,,,,,,,,,,,,Yes,vomito,Yes,2025-02-19,Yes,,Moderate,"Not Related",Yes,Complete
+5,Visit_3,adverse_events,4,,,,,,,,,,,,,,,Yes,"dor de cabeca",Yes,2025-01-11,Yes,,Severe,Definitely,Yes,Complete
+5,Visit_3,adverse_events,5,,,,,,,,,,,,,,,Yes,diarreia,Yes,2025-02-09,Yes,,Severe,Definitely,No,Complete
+5,Visit_3,adverse_events,6,,,,,,,,,,,,,,,Yes,"dor de cabeca",Yes,2025-01-28,Yes,,Severe,Probably,No,Complete

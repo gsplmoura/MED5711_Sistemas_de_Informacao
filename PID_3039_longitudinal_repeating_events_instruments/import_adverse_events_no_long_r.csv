@@ -1,0 +1,5 @@
+record_id,redcap_event_name,redcap_repeat_instrument,redcap_repeat_instance,aeyn,aeterm,aeoccur,aestdat,aeongo,aeendat,aesev,aerel,aedis,adverse_events_complete
+3,visit_2_arm_1,adverse_events,1,0,,,,,,,,,2
+2,visit_3_arm_1,adverse_events,1,0,,,,,,,,,2
+3,visit_3_arm_1,adverse_events,1,0,,,,,,,,,2
+5,visit_3_arm_1,adverse_events,1,0,,,,,,,,,2

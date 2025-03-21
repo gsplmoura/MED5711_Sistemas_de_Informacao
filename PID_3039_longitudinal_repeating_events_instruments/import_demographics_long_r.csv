@@ -1,0 +1,6 @@
+record_id,redcap_event_name,date_enrolled,first_name,dob,ethnicity,race,sex,demographics_complete
+1,visit_1_arm_1,2024-02-12,YGH,1997-11-18,0,2,1,2
+2,visit_1_arm_1,2024-04-06,HPX,1993-03-13,1,4,0,2
+3,visit_1_arm_1,2024-11-20,DHE,1995-10-16,2,4,0,2
+4,visit_1_arm_1,2024-03-23,SMO,1999-06-27,2,0,0,2
+5,visit_1_arm_1,2024-07-15,ENN,1990-01-27,0,0,1,2
