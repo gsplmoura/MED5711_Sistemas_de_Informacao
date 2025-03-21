@@ -50,3 +50,5 @@ phq15 <- import_template %>%
   ungroup()
 
 write_csv(phq15, "PID_3034_repeating_instruments/import_phq15.csv",na = "")
+
+data_export <- read_csv("PID_3034_repeating_instruments/data_export.csv")
