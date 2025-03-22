@@ -1,7 +1,6 @@
 
 # IGNORE DATA FOLDERS
 /Library/
-Syllabus.qmd
 
 # Ignore macOS system files
 .DS_Store

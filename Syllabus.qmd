@@ -1,0 +1,375 @@
+---
+title: "Syllabus"
+---
+
+# Informações Gerais da Disciplina
+
+Ambiente: MED -> MED5711-2025
+
+# Geral
+
+**Coordenador**
+
+- Fabio Carmona (DPP-FMRP) - carmona\@fmrp.usp.br
+
+**Colaboradores**
+
+- Ricardo Perussi (STI-FMRP) - rperussi\@fmrp.usp.br 
+- Carlos Alberto Siqueira Lima Jr. (DPP-FMRP/FAEPA) - carlosjunior\@hcrp.usp.br 
+- Gustavo S. P. Laender Moura (DCM-FMRP) - gsplmoura\@usp.br
+
+## Instruções sobre a disciplina
+Seja bem vindo(a) a MED5711 Sistemas de informação.
+Esta disciplina teve seu conteúdo totalmente reformulado em 2021, tendo agora como foco o desenvolvimento de seu banco de dados de pesquisa na plataforma REDCap.
+
+Esta disciplina será ministrada totalmente online e de forma assíncrona, ou seja, cada estudante vai assistindo aos vídeos e completando as tarefas no seu próprio ritmo. O curso ocorre durante todo o mês de abril. Haverá plantões de dúvidas ao vivo, também online, para os que precisarem, às quintas-feiras, às 20h00 na sala de aula virtual, durante todo o mês.
+
+Para aprovação na disciplina, é necessário completar todas as tarefas e a avaliação final. A avaliação da disciplina também é obrigatória para a conclusão do curso. A conclusão de todas as atividades é esperada até a data máxima de 30/abril.
+
+Se houver dúvidas, não hesite em nos escrever nos emails ou no fórum de dúvidas.
+
+Bom curso.
+
+Prof. Fabio Carmona
+
+## Plantões de Dúvidas
+
+MED5711 Plantão de dúvidas
+Todas as quintas-feiras de 04/abril até 25/abril, às 20h00. Atendimento ao vivo por ordem de chegada.
+
+# Introdução
+
+## Introdução à disciplina
+
+Professor Fábio Carmona
+
+Duração: 03:54 minutos
+
+- Carga horária e créditos
+- Metodologia
+- Programa de ensino
+- Avaliação: implementação de um projeto de pesquisa no REDCap
+
+## Planejando sua coleta de dados
+
+Professor Fábio Carmona
+
+Duração: 33:24 minutos
+
+- Garbage in, garbage out
+- Pontos a considerar no planejamento da coleta de dados: origem, conferência, armazenamento, auditoria, preparação dos dados, planejamento da análise, apresentação dos resultados.
+- Bancos de dados pré-existentes: DATASUS, Coortes, Rede Brasileira de pesquisas neonatais, IBGE, repositórios de dados - re3data.org, figshare, data dryad, zenodo, repositório USP, repositório das principais editoras.
+- Recomendações gerais quanto a segurança e qualidade dos dados.
+- Princípios FAIR (findable, accessible, interoperable, re-usable)
+- Preparação dos dados para análise: consistência no uso de unidades e codificação de variáveis; razões para dados faltantes (missing).
+- Plano de gestão de dados (Data management plan - DMP): DMP Tool, recomendações da USP para gestão de dados (agência AGUIA), recomendações da FAPESP.
+- Dicionário de dados: componentes fundamentais.
+- Vantagens do uso do REDCap para coleta de dados: coleta, conferência, armazenamento, auditoria, relatórios, preparação para análise.
+
+*Tarefa*: Elabore o seu dicionário de dados
+
+## Bancos de Dados
+
+Ricardo Perussi
+
+Duração: 08:41 minutos
+
+Conceitos básicos de banco de dados.
+
+Bibliografia:
+
+- Elmasri & Navathe - Fundamentos de Banco de Dados
+- Carlos Alberto Heuser - Projeto de Banco de Dados
+
+## LGPD - Lei Geral de Proteção de Dados URL
+
+Ricardo Perussi
+
+Duração: 10:25 minutos
+
+Aula expositiva sobre a Lei Geral de Proteção de Dados - LGPD (Lei 13709/2018)
+
+Bibliografia:
+
+- Rede Nacional de Ensino e Pesquisa (RNP) - https://www.rnp.br
+- Serviço Federal de Processamento de Dados (SERPRO) - https://www.serpro.gov.br/lgpd
+
+## REDCap
+
+Ricardo Perussi
+
+Duração: 11:31 minutos
+
+Aula expositiva sobre sistemas para coleta e armazenamento de dados online  - REDCap (Principais funcionalidades e Vantagens)
+
+- Significado da sigla REDCap
+- Principais funções: contruir, gerenciar e exportar os dados
+- Origem do REDCap
+- Vantagens do REDCap:
+  - Estudos transversais e longitudinais
+  - Questionários auto-aplicáveis (Survey)
+  - Coleta de dados multicêntricos (DAG)
+  - Randomização
+  - Controle de qualidade dos dados (Data Quality)
+  - Compatibilidade (Desktop - Mobile - Offline)
+  - Controle de acesso e permissões de usuários
+  - Rastreabilidade (Log)
+  - Segurança da Informação (HTTPs e Backup)
+
+## REDCap FMRP
+
+Ricardo Perussi
+
+Duração: 04:57 minutos
+
+Aula expositiva com informações de solicitação de acesso à instância REDCap FMRP. Informações gerais sobre a infraestrutura existente da instância FMRP do REDCap, servidores e rotinas de backup.
+
+*Tarefa*: Crie seu usuário e senha no REDCap FMRP e crie um projeto em branco e poste aqui o endereço
+
+# Recursos básicos
+
+## Visão Geral - REDCap
+
+Ricardo Perussi
+
+Duração: 17:09 minutos
+
+Aula expositiva com uma visão geral das principais funcionalidades e recursos da ferramenta REDCap.
+
+- Tipos de projeto
+- Criando um projeto novo
+- Página geral do projeto (Project Setup) e principais recursos disponíveis:
+  - habilitação de surveys
+  - habilitação de projeto longitudinal e eventos
+  - acesso a páginas de ajuda
+  - criação do projeto com online designer vs. data dictionary
+- Utilização de "braços" ou Arms (grupos de eventos / instrumentos)
+- Record status dashboard
+- Importação de dados com "Data Import Tool"
+- Overview sobre os tipos de campos, "branching logic" e matrizes.
+- Outras funcionalidades: piping, smart variables, action tags.
+
+## Criar um Projeto - Instrumentos - Campos/variáveis
+
+Ricardo Perussi
+
+Duração: 33:24 minutos
+
+Aula com aplicações práticas, diretamente na ferramenta REDCap, a partir de um exercício: analisar a evolução do IMC dos alunos da FMRP durante os 6 anos do curso (`IMC FMRP`).
+- Acesso instância REDCap FMRP - redcap.fmrp.usp.br
+- Solicitação de usuário e senha através do formulário
+- Criação de um novo Projeto
+- Criando o primeiro instrumento: dados demográficos
+- Criar os primeiros campos/variáveis de um instrumento
+- Escolhendo o tipo de campo e utilizando termos de validação dos dados. 
+- Importância de marcar campos que contém dados identificáveis.
+- Utilizando field notes.
+- Mudando o alinhamento dos campos.
+- Overview da possibilidade de realizar download de instrumentos (arquivo .zip) para compartilhamento, importação de intrumentos a partir de arquivos locais, ou importação de instrumentos a partir da biblioteca do REDCap.
+
+*Tarefa*: Crie instrumentos (formulários) com campos de diferentes tipos, usando como base o seu dicionário de dados. Ao terminar, assinale ao lado como completo.
+
+## Branching Logic
+
+Ricardo Perussi
+
+Duração: 15:38 minutos
+
+Aula com aplicação prática da funcionalidade "Branching logic" no condicionamento de campos/variáveis, retomando o projeto criado na última aula (`IMC FMRP`).
+
+- Criando o segundo instrumento: dados antropométricos
+- Primeiro campo branching logic, condicionando o campo `gestante` apenas para indivíduos do `sexo` feminino.
+- Desabilitando a opção padrão de auto-numeração do `record_id` e adicionando o primeiro registro de participante.
+- Entenendo a função do `form status`: complete, incomplete, unverified, e entendendo a codificação de cores no `record dashboard`.
+
+*Tarefa*: Crie nos seus instrumentos (formulários) alguns campos com condição (branching logic). Ao terminar, assinale ao lado como completo.
+
+## Campo Calculated
+
+Ricardo Perussi
+
+Duração: 14:22 minutos
+
+Retomando o projeto `IMC FMRP`:
+
+- Criando o primeiro campo calculado: `idade` usando as funções  `datediff` e `round`.
+- Acessando o Help & FAQ para obter mais informações e citando alguns exemplos de função: `if`, `mean`, `median`, dentre outras. 
+- Criando outro campo calculado - `IMC`.
+
+*Tarefa*: Crie nos seus instrumentos (formulários) alguns campos calculados. Ao terminar, assinale ao lado como completo.
+
+## Matriz, Action Tags, Smart Variables e Piping
+
+Ricardo Perussi
+
+Duração: 23:04 minutos
+
+Retomando o projeto `IMC FMRP` para aplicação prática dos recursos de campo do tipo matriz, Action Tags e Piping.
+
+- Agrupando variáveis com as mesmas opções de resposta em matrizes, a partir do exemplo de atividade física.
+- Overview de algumas action tags e utilizando a primeira action tag `@calctext`. Comentário que é possível adicionar mais uma action tag na mesma variável.
+- Utilizando o `piping`.
+
+*Tarefa*: Crie em seus instrumentos (formulários) campos do tipo matriz e experimente utilizar o recurso piping em alguns cabeçalhos. Ao terminar, assinale ao lado como completo.
+
+# Recursos intermediários
+
+## Alertas & Notificações
+
+Professor Fábio Carmona
+
+Duração: 18:03 minutos
+
+Utilizando a função de alerta e notifação a partir de um projeto de exemplo com os instrumentos "inclusão, "alocação", e "seguimento".  O primeiro alerta criado tem a função de "avisar o estatístico para randomizar". 
+
+Todas as opções de configuração e ajustes possíveis são explicadas, incluindo:
+  - lógica condicional;
+  - momento em que o alerta será disparado;
+  - recorrência dos alertas;
+  - protegendo dados sensíveis bloqueando o `piping` de dados identificáveis;
+- Outro exemplo de utilização de `piping` na mensagem do alerta.
+- Testando o funcionamento dos alerta.
+- Acesso ao `Notification Log`. 
+
+*Tarefa*: Crie em seu projeto pelo menos um tipo de alerta/notificação por email para você mesmo e experimente para ver se funciona. Ao terminar, assinale ao lado como completo.
+
+## Coleta longitudinal de dados
+
+Professor Fábio Carmona
+
+Duração: 11:28 minutos
+
+Dando continuidade ao projeto de exemplo utilizado na última aula, as ferramentas de coleta longitudinal de dados são abordadas.
+
+- Habilitando a coleta longitudinal de dados
+- Definindo os eventos
+- Designando os intrumentos para cada evento
+- Entendendo a função de criar mais de um braço (Arm)
+- Habilitando o módulo de agendamento (`scheduling`)
+- Ajustando a temporalidade dos eventos para o módulo de `scheduling`
+- Utilizando a função de `scheduling` na aba de Data Collection, ajustando as datas e conferindo os resultados do agendamento no `calendário`.
+
+
+## Usando surveys (pesquisa online)
+
+Professor Fábio Carmona
+
+Duração: 23:21 minutos
+
+- Entendendo o que são as surveys
+- Habilitando a função de surveys no projeto 
+- Ativando um instrumento como uma survey
+- Ferramentas de personalização gráfica
+- Ferramentas úteis para auditoria
+- Designando o campo de email ou telefone para encaminhamento da survey para o participante
+- Definindo limites de números de resposta
+- Definindo um limite de tempo para a resposta
+- Entendendo a nova ferramenta de coleta de dados: `Survey Distribution Tools`
+- Link público de distribuição (`Public Survey Link`)
+- Criando um convite automatizado e entendendo as ferramentas de personalização.
+- Visualizando os registros de surveys enviadas e respondidas no `Survey invitation Log`
+
+*Tarefa*: Crie em seu projeto pelo menos uma Survey, utilizando um dos seus instrumentos ou crie um novo. Experimente enviar o endereço público para algum colega para testar. Ao terminar, assinale ao lado como completo.
+
+## Data resolution workflow
+
+Professor Fábio Carmona
+
+Duração: 10:01 minutos
+
+- Histórico de registro e modificação dos dados
+- Caixa de diálogo (`Field Comment Log`) para registro de metadados (default)
+- Habilitando o `Data Resolution Workflow` nas customizações adicionais do setup do projeto.
+- Entendno o que é o `Data Resolution Workflow` e sua importância na auditoria dos dados
+- Como criar um inquérito (`Query`)
+- Direcionando a `query` para um usuário específico
+- Acessando as `queries` através da ferramenta `Resolve Issues` através na aba `Applications`.
+
+## Usuários e Centros (DAGs)
+
+Professor Fábio Carmona
+
+Duração: 14:42 minutos
+
+### User rights
+
+- Entendendo a ferramenta `User rights`
+- Personalizando os direitos de acesso de usuários
+- Entendendo os recursos de personalização
+- Recursos associados a segurança de dados, exportação de dados, acesso às ferramentas de distribuição das surveys, repositório de arquivos, data quality, data resolution workflow, grau de acesso aos instrumentos,
+- Criando papeis de usuário.
+
+### Data Access Groups (DAG)
+
+- Criando diferentes grupos de acesso aos dados
+- Relevância em estudos multicêntricos
+- Designando usuários aos DAGs
+- Entendendo a função `DAG Switcher`
+
+*Tarefa*: Crie em seu projeto diferentes centros (DAGs) para coleta de dados, e crie no seu projeto alguns papeis de usuário (alguns exemplos: digitador, supervisor, auditor, estatístico, farmacêutico, observador, coordenador) com as devidas permissões. Ao terminar, assinale ao lado como completo.
+
+## Qualidade de dados (`Data Quality`)
+
+Professor Fábio Carmona
+
+Duração: 12:08 minutos
+
+- Entendendo a função do `data quality` no controle de qualidade dos dados
+- Entendendo as regras padronizadas (Regras de A a I)
+- Como executar as regras
+- Exemplo de execução das regras em um projeto do REDCap
+- Criando uma `query`
+- Recalculando campos calculados
+- Criando regras personalizadas para identificar potenciais problemas com a coleta ou registro dos dados.
+
+
+*Tarefa*: Crie em seu projeto algumas regras de qualidade de dados personalizadas. Ao terminar, assinale ao lado como completo.
+
+## Estatísticas e Exportação
+
+Professor Fábio Carmona
+
+Duração: 11:45 minutos
+
+### Relatórios
+
+- Visualizando estatísticas descritivas básicas
+- Gráficos de barra e gráficos de dispersão
+- Criando relatórios personalizados
+- Opções de personalização dos relatórios
+- Definindo as variáveis relevantes, selecionando filtros fixos ou dinâmicos e ordenando os resultados.
+
+### Exportando os dados
+
+- Como exportar os dados
+- Definindo o formato do arquivo exportado
+- Opções associadas à segurança dos dados, como acesso a dados sensíveis ou identificáveis
+- Formatação avançada dos arquivos .csv
+
+*Tarefa*: Crie em seu projeto pelo menos um Report personalizado. Ao terminar, assinale ao lado como completo.
+
+**Nota:** Recursos avançados do REDCap não serão abordados neste curso. Contate-nos caso tenha interesse em aprender mais.
+
+# Avaliação e conclusão do curso
+
+## Tarefa: Avaliação final
+
+Para a avaliação final, poste na tarefa o endereço do seu projeto de banco de dados no REDCap FMRP e também escreva um texto de até 500 palavras sobre porque foi importante utilizar o REDCap para a elaboração deste banco de dados.
+
+## Enquete: Avaliação da disciplina
+
+Aqui, você é quem irá avaliar esta disciplina. Não se preocupe, pois todas as respostas são anônimas.
+
+
+
+```{r}
+library(lubridate)
+times <- c("03:54", "33:24", "08:41", "10:25", "11:31", "04:57", "17:09", "33:24", "15:38", "14:22", "23:04", "18:03", "11:28", "23:21", "10:01", "14:42", "12:08", "11:45")
+
+duration <- ms(times)
+
+total <- sum(duration)
+
+total/60
+
+```

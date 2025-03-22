@@ -74,7 +74,7 @@ bibliography:
   - Library/BibTeX/proceedings.bib
   - Library/BibTeX/techreport.bib
   - Library/BibTeX/unpublished.bib
-csl: apa.csl
+#csl: apa.csl
 link-citations: true
 link-bibliography: true
 
@@ -93,10 +93,10 @@ crossref:
   eq-prefix: "Equation"
 
 # Quarto Extensions
-filters:
-  - citations
-  - crossref
-  - knitr
+#filters:
+#  - citations
+#  - crossref
+#  - knitr
 
 # License Information
 license: "CC BY 4.0"
@@ -111,6 +111,5 @@ output-dir: "outputs"
 
 # Other Metadata
 site: "https://github.com/gsplmoura"
-project:
 #  type: book
 #  output-dir: "docs"
